@@ -10,7 +10,6 @@ const Navbar = () => {
           </div>
           <div className="nav-cont d-flex justify-content-center align-items-center gap-4 text-white">
               <Link className='text-white text-decoration-none' to={'/'}>Home</Link>
-              <Link className='text-white text-decoration-none' to={'/Quiz'}>Quiz</Link>
               <Link className='text-white text-decoration-none' to={'/pagination'}>Pagination</Link>
           </div>
        </nav>
